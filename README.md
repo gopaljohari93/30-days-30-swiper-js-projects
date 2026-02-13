@@ -5,15 +5,15 @@ HTML, CSS, and JavaScript.
 
 ## 📅 Projects List
 
-| Day | Project                        | Live Demo |
-| --- | ------------------------------ | --------- |
-| 01  | Coverflow-Effect Swiper Slider | 🔗        |
-| 02  | Image Slider                   | 🔗        |
-| 03  | Card Slider                    | 🔗        |
-| 04  | Testimonial Slider             | 🔗        |
-| 05  | Product Slider                 | 🔗        |
-| ... | ...                            | ...       |
-| 30  | Advanced Carousel              | 🔗        |
+| Day | Project                        | Live Demo                             |
+| --- | ------------------------------ | ------------------------------------- |
+| 01  | Coverflow-Effect Swiper Slider | https://coverflow-slider.netlify.app/ |
+| 02  | Image Slider                   | 🔗                                    |
+| 03  | Card Slider                    | 🔗                                    |
+| 04  | Testimonial Slider             | 🔗                                    |
+| 05  | Product Slider                 | 🔗                                    |
+| ... | ...                            | ...                                   |
+| 30  | Advanced Carousel              | 🔗                                    |
 
 ## 🛠 Tech Stack
 
